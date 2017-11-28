@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geolocate</string>
+    <string name="title_activity_maps">Geomap</string>
+</resources>
